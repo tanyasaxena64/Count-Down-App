@@ -1,0 +1,16 @@
+body {
+  background: orange;
+}
+
+#count-down {
+  font-size: 27px;
+  color: brown;
+}
+
+button {
+  background: rgb(128, 128, 153);
+  color: white;
+  width: 140px;
+  padding: 9px;
+  border: 2px solid white;
+}
